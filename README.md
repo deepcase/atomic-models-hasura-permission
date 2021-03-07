@@ -1,1 +1,0 @@
-# atomic-models-hasura-permission
