@@ -4,7 +4,7 @@
 
 ## install
 
-- Before all create `.env` file. (in gitpod sets automatically)
+- Before all create `.env` file.
   ```sh
   HASURA_PATH='localhost:8080'
   HASURA_SSL=0
